@@ -1,0 +1,17 @@
+.sidebar-elem:hover{
+    background-color: var(--primary);
+
+
+}
+
+.sidebar-elem:active{
+    background-color: var(--primary);
+}
+
+.sidebar-elem:active .sidebar-elem-text{
+    color: white !important;
+}
+
+.sidebar-elem:hover .sidebar-elem-text{
+    color: white !important;
+}
